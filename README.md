@@ -59,3 +59,5 @@ Kortix installs with three commands. `kortix init` scaffolds a project and write
 
 - [Kortix on GitHub](https://github.com/kortix-ai/suna)
 - [Try Kortix](https://kortix.com)
+
+The lane-by-lane reading on the companion site continues with [what Microsoft Copilot is](https://opensourcecopilotalternative.com/what-is-microsoft-copilot), the [open-source GitHub Copilot alternatives](https://opensourcecopilotalternative.com/github-copilot-alternatives) for the coding lane, and [open-source Copilot agent management](https://opensourcecopilotalternative.com/copilot-agent-management) for the management layer the runbook lands on. The [FAQ](https://opensourcecopilotalternative.com/faq) collects the questions that come up mid-migration.
