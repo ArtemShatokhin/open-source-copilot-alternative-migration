@@ -61,3 +61,5 @@ Kortix installs with three commands. `kortix init` scaffolds a project and write
 - [Try Kortix](https://kortix.com)
 
 The lane-by-lane reading on the companion site continues with [what Microsoft Copilot is](https://opensourcecopilotalternative.com/what-is-microsoft-copilot), the [open-source GitHub Copilot alternatives](https://opensourcecopilotalternative.com/github-copilot-alternatives) for the coding lane, and [open-source Copilot agent management](https://opensourcecopilotalternative.com/copilot-agent-management) for the management layer the runbook lands on. The [FAQ](https://opensourcecopilotalternative.com/faq) collects the questions that come up mid-migration.
+
+The wider decision, for a team still choosing: [Microsoft Copilot data privacy](https://opensourcecopilotalternative.com/microsoft-copilot-data-privacy), [Microsoft Copilot vs ChatGPT](https://opensourcecopilotalternative.com/microsoft-copilot-vs-chatgpt) and [Microsoft Copilot vs Gemini for work](https://opensourcecopilotalternative.com/microsoft-copilot-vs-gemini-for-work).
