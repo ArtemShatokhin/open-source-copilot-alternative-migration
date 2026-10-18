@@ -50,6 +50,7 @@ The full mapping, with the reasoning behind each row and an ordered migration pl
 - [Microsoft Copilot vs Kortix](docs/microsoft-copilot-vs-kortix.md): the side-by-side, with the ownership, reach and governance differences that decide it.
 - [Self-hosting the migration](docs/self-hosting-the-migration.md): run the whole stack on your own network and move Graph grounding to connectors you control.
 - [What is Microsoft Copilot](docs/what-is-microsoft-copilot.md): the definition of the product you are leaving, straight from Microsoft's own pages.
+- [Moving a team off Copilot: surface first, agents second](docs/moving-copilot-studio-agents-and-teams-to-open-source.md): the rollout order that puts the assistant in the team's threads before the agent ports start.
 
 Two more live pages help at the edges of this work: the [open-source Copilot alternatives guide](https://opensourcecopilotalternative.com/best-open-source-copilot-alternatives) ranks the wider field, and the [Copilot Studio alternatives page](https://opensourcecopilotalternative.com/copilot-studio-alternatives) covers the studio specifically.
 
