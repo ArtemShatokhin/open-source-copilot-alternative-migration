@@ -31,7 +31,7 @@ The practical effect shows up when something needs to change. In Kortix you diff
 
 Microsoft's grounding is a managed service. Microsoft 365 Copilot (Premium) grounds answers automatically in organizational data through Microsoft Graph and Work IQ, scoped to each person's permissions, and Copilot Studio reaches external systems through 1,500+ prebuilt connectors and MCP servers. Kortix rebuilds the same reach from parts you hold: connectors to the systems your team runs on, and memory files in the repo that accumulate what the agents learn.
 
-Kortix reaches 3,000+ apps in a click, plus MCP, OpenAPI, Postman, GraphQL and raw HTTP. Connector credentials are brokered server-side and never enter the machine. The memory sits in files you can read, diff and move, while a managed index stays behind a vendor's wall.
+The memory sits in files you can read, diff and move, while a managed index stays behind a vendor's wall.
 
 ## Governance: user permissions against agents as principals
 
@@ -53,7 +53,7 @@ Copilot's output appears in the Microsoft 365 apps people already use, which is 
 
 Microsoft prices Copilot per seat on top of a qualifying Microsoft 365 plan. Microsoft's individual pricing page includes Copilot with Microsoft 365 Personal at $9.99 per month, with a limited free version subject to capacity and limits. Microsoft's business pricing page lists Microsoft 365 Business Standard with Copilot at $23.50 per user per month paid yearly, and the Microsoft 365 Copilot Business add-on at $21.00, discounted to $18.00 for a promotional period, capped at 300 users. The enterprise pricing page lists the Microsoft 365 Copilot add-on at $30.00 per user per month paid yearly, on an annual commitment, added to a qualifying base plan. Copilot Chat is included at no additional cost with eligible Microsoft 365 plans. Prices checked October 2026.
 
-Kortix prices self-hosting and a managed cloud separately, as written on its pricing page. Free includes 200 credits each month for sandbox compute and 1 project. The team plan is $40 per seat per month and includes 2,500 pooled credits per seat. Self-host is free. Enterprise adds SAML SSO, SCIM directory sync, advanced RBAC, audit logs, an SLA and a DPA, and Cloud, VPC or on-prem deployment.
+Kortix prices self-hosting and a managed cloud separately, as written on its pricing page. Paid plans start at $50 a month for 5,000 credits, and members are free, sharing one credit pool. Self-host is free. Enterprise adds SAML SSO, SCIM directory sync, advanced RBAC, audit logs, an SLA and a DPA, and Cloud, VPC or on-prem deployment.
 
 ## When Microsoft Copilot is the right call
 
